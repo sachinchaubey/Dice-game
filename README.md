@@ -1,1 +1,1 @@
-<a href="https://github.com/sachinchaubey/Dice-game">LIVE DEMO</a>
+<a href="https://sachinchaubey.github.io/Dice-game/">LIVE DEMO</a>
